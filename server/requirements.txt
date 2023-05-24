@@ -1,0 +1,3 @@
+Flask
+opentelemetry-distro==0.36b0
+opentelemetry-exporter-otlp==1.15.0
