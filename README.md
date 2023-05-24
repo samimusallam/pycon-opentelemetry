@@ -16,7 +16,10 @@ docker-compose build
 docker-compose up
 ```
 
+View the workshop demo server [here](http://localhost:5002/)
+
 ## Observability Tools
+
 [Jaeger UI](http://localhost:16686/)
 
 [Zipkin](http://localhost:9411/)
