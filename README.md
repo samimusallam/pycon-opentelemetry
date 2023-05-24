@@ -24,4 +24,4 @@ View the workshop demo server [here](http://localhost:5002/)
 
 [Zipkin](http://localhost:9411/)
 
-[Jaeger Grafana](http://localhost:3000/)
+[Grafana](http://localhost:3000/)
