@@ -25,3 +25,6 @@ View the workshop demo server [here](http://localhost:5002/)
 [Zipkin](http://localhost:9411/)
 
 [Grafana](http://localhost:3000/)
+
+
+Note: command for running docker on M1 processors: DOCKER_DEFAULT_PLATFORM=linux/amd64
